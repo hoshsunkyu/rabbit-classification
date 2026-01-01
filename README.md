@@ -15,10 +15,6 @@ The following models were implemented and experimented with:
 - `*.h5`, `*.keras`: Saved trained models (e.g., `best_model.h5`, `best_mobilenetv3_model.keras`).
 - `training_log.csv`: Logs of the training process.
 
-## Authors
-- **RAUDHATUL SAADAH BINTI ABDUL RAZAK** (52213122400)
-- **PUTRI NURSYAZANA BINTI MUSTAFA KAMAL** (52213122010)
-- **WAN NURUL EZZAH BINTI SAHARDI** (52213123227)
 
 ## Usage
 1.  Install the required dependencies (see imports in `project.ipynb`).
