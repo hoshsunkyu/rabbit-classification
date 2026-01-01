@@ -1,0 +1,19 @@
+# Azure
+.funcignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large model files (exceeding GitHub 100MB limit)
+*.h5
+*.keras
+*.pkl
+
+# Data
+data/
+tuner_results/
